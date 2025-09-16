@@ -12,7 +12,7 @@
 *.mex*
 
 # Packaged app and toolbox files
-*.mlappinstall
+#*.mlappinstall
 *.mltbx
 
 # Deployable archives
